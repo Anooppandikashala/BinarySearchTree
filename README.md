@@ -2,7 +2,7 @@
 
 ### How to Run
 
-'''
-make
+```
+  make
 
-'''
+```
